@@ -1,7 +1,8 @@
 # Beyond Parties: Assessing Ideological Representation in the Chilean Constitutional Convention
 Complementary material for “Beyond Parties: Assessing Ideological Representation in the Chilean Constitutional Convention” included in The Law and Politics of Constitution Making: Lessons from Chile, edited by Eduardo Alemán and Sebastián Soto. Chapter 16. Published by Routledge (ISBN 9781041006244). 348 pages; 35 B/W illustrations. Publication date: November 25, 2025.
 
-**Summary**
+**Summary**:  
+
 Core question and context. The chapter asks whether Chile’s 2021–2022 Chilean Constitutional Convention—a body unusually dominated by independents (about two-thirds of 155 delegates)—produced better ideological representation of citizens than a more party-centered arrangement would have. It frames this as a problem of ideological congruence (citizen–representative alignment), long linked to democratic legitimacy.
 
 Data and measurement strategy. Because citizen and candidate data came from two separate surveys, the author builds a common ideological scale by matching a subset of comparable questions across surveys: Indigenous recognition (plurinational vs national state), executive–legislative design (presidential vs semi-presidential), presidential term length, unicameral vs bicameral legislature, and subsidiary vs welfare state. Citizen data come from a survey fielded by Asociación de Investigadores de Mercado (N=2,873) shortly before the election; candidate responses were published by La Tercera and scraped by the author (932 candidates). A Bayesian latent-trait approach (following Clinton, Jackman, and Rivers-style scaling) is then used to place citizens and candidates on the same ideological dimension, followed by multiple robustness checks (correlations, logistic regression, distribution tests, and a random-forest classifier).
